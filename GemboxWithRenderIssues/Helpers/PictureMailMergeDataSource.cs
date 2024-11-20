@@ -15,11 +15,15 @@ namespace GemboxWithRenderIssues.Helpers
         public Stream? GetStream()
         {
             var type = _element.Attribute("Type")?.Value;
-            switch (type) {
+            switch (type)
+            {
                 case "ImageRef":
+                    var workingDirectory = Environment.CurrentDirectory;
+                    var projectDirectory = Directory.GetParent(workingDirectory).Parent.Parent.FullName;
+
                     var pathElement = _element.Element("Path");
 
-                    var path = pathElement?.Value;
+                    var path = projectDirectory + "/" + pathElement?.Value;
                     if (string.IsNullOrEmpty(path))
                         return null;
 

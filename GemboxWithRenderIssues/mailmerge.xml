@@ -1,0 +1,589 @@
+<Data>
+  <DocumentNr>26013</DocumentNr>
+  <DocumentId>69FA88AA033149DA948513B7D2C5F9A0</DocumentId>
+  <DateTime>2023-07-12T15:39</DateTime>
+  <Processing>
+    <Output>..\Database\pdf\gembox_17_0_1371.pdf</Output>
+    <OutputCopy />
+    <Template>..\Database\pdf\doc.dotx</Template>
+    <PrintCopies>0</PrintCopies>
+    <Printer />
+    <DeletePdf>false</DeletePdf>
+    <Preview>false</Preview>
+    <DocCode>DOC</DocCode>
+    <RapName>DOC1</RapName>
+    <TemplateType>WORD</TemplateType>
+    <Watermark />
+  </Processing>
+  <Labels>
+    <LA_ALIBI_WEIGHING1Label Id="LA_ALIBI_WEIGHING1">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Arrival weighing number</DOCTranslation>
+      </Translations>
+    </LA_ALIBI_WEIGHING1Label>
+    <LA_ALIBI_WEIGHING2Label Id="LA_ALIBI_WEIGHING2">
+      <Translations />
+      <DOCTranslation LanguageCode="DOC">Departure weighing number</DOCTranslation>
+    </LA_ALIBI_WEIGHING2Label>
+    <LA_ANNONCEDLabel Id="LA_ANNONCED">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Announced</DOCTranslation>
+      </Translations>
+    </LA_ANNONCEDLabel>
+    <LA_ARTICLELabel Id="LA_ARTICLE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Product</DOCTranslation>
+      </Translations>
+    </LA_ARTICLELabel>
+    <LA_ARTICLE_DESCRLabel Id="LA_ARTICLE_DESCR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Raw material</DOCTranslation>
+      </Translations>
+    </LA_ARTICLE_DESCRLabel>
+    <LA_BARGELabel Id="LA_BARGE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Barge</DOCTranslation>
+      </Translations>
+    </LA_BARGELabel>
+    <LA_CERTIFICATIONLabel Id="LA_CERTIFICATION">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Certification</DOCTranslation>
+      </Translations>
+    </LA_CERTIFICATIONLabel>
+    <LA_CHAUFFEUR_CONFIRMLabel Id="LA_CHAUFFEUR_CONFIRM">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Given to the driver</DOCTranslation>
+      </Translations>
+    </LA_CHAUFFEUR_CONFIRMLabel>
+    <LA_CLIENTLabel Id="LA_CLIENT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Customer</DOCTranslation>
+      </Translations>
+    </LA_CLIENTLabel>
+    <LA_CLIENT_REFLabel Id="LA_CLIENT_REF">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Customer order</DOCTranslation>
+      </Translations>
+    </LA_CLIENT_REFLabel>
+    <LA_COMMENTLabel Id="LA_COMMENT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Remarks</DOCTranslation>
+      </Translations>
+    </LA_COMMENTLabel>
+    <LA_COMMENTSLabel Id="LA_COMMENTS">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Comment</DOCTranslation>
+      </Translations>
+    </LA_COMMENTSLabel>
+    <LA_CONTRACTLabel Id="LA_CONTRACT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Contract/Line</DOCTranslation>
+      </Translations>
+    </LA_CONTRACTLabel>
+    <LA_DAE_NUMBERLabel Id="LA_DAE_NUMBER">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">DAE</DOCTranslation>
+      </Translations>
+    </LA_DAE_NUMBERLabel>
+    <LA_DATELabel Id="LA_DATE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Date</DOCTranslation>
+      </Translations>
+    </LA_DATELabel>
+    <LA_DATE_HOURLabel Id="LA_DATE_HOUR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Date and time</DOCTranslation>
+      </Translations>
+    </LA_DATE_HOURLabel>
+    <LA_DEPARTMENTLabel Id="LA_DEPARTMENT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Departement</DOCTranslation>
+      </Translations>
+    </LA_DEPARTMENTLabel>
+    <LA_DESTINATIONLabel Id="LA_DESTINATION">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Destination</DOCTranslation>
+      </Translations>
+    </LA_DESTINATIONLabel>
+    <LA_DURABILITY_CAMPGAIGNLabel Id="LA_DURABILITY_CAMPGAIGN">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Year</DOCTranslation>
+      </Translations>
+    </LA_DURABILITY_CAMPGAIGNLabel>
+    <LA_DURABLELabel Id="LA_DURABLE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Durable</DOCTranslation>
+      </Translations>
+    </LA_DURABLELabel>
+    <LA_GES_TRANSPORTLabel Id="LA_GES_TRANSPORT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Transport identification</DOCTranslation>
+      </Translations>
+    </LA_GES_TRANSPORTLabel>
+    <LA_INNAMNRLabel Id="LA_INNAMNR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Intakenumber</DOCTranslation>
+      </Translations>
+    </LA_INNAMNRLabel>
+    <LA_LEGAL_NOTICELabel Id="LA_LEGAL_NOTICE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Legal notice</DOCTranslation>
+      </Translations>
+    </LA_LEGAL_NOTICELabel>
+    <LA_LOADING_PLACELabel Id="LA_LOADING_PLACE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Loading place</DOCTranslation>
+      </Translations>
+    </LA_LOADING_PLACELabel>
+    <LA_LOADING_ZONELabel Id="LA_LOADING_ZONE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Loading zone</DOCTranslation>
+      </Translations>
+    </LA_LOADING_ZONELabel>
+    <LA_LOTLabel Id="LA_LOT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Lot</DOCTranslation>
+      </Translations>
+    </LA_LOTLabel>
+    <LA_NO_APPROVALLabel Id="LA_NO_APPROVAL">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Approval number</DOCTranslation>
+      </Translations>
+    </LA_NO_APPROVALLabel>
+    <LA_ORDEREDLabel Id="LA_ORDERED">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Ordered</DOCTranslation>
+      </Translations>
+    </LA_ORDEREDLabel>
+    <LA_ORDERNRLabel Id="LA_ORDERNR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Order</DOCTranslation>
+      </Translations>
+    </LA_ORDERNRLabel>
+    <LA_ORIGINLabel Id="LA_ORIGIN">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Origin durability</DOCTranslation>
+      </Translations>
+    </LA_ORIGINLabel>
+    <LA_PERCENTLabel Id="LA_PERCENT">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">%</DOCTranslation>
+      </Translations>
+    </LA_PERCENTLabel>
+    <LA_PREVIOUS_DELIVLabel Id="LA_PREVIOUS_DELIV">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Previous deliveries</DOCTranslation>
+      </Translations>
+    </LA_PREVIOUS_DELIVLabel>
+    <LA_PRODUCT_ORIGINLabel Id="LA_PRODUCT_ORIGIN">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Origin article</DOCTranslation>
+      </Translations>
+    </LA_PRODUCT_ORIGINLabel>
+    <LA_QTYLabel Id="LA_QTY">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Quantity</DOCTranslation>
+      </Translations>
+    </LA_QTYLabel>
+    <LA_QTY_ANNOUNCEDLabel Id="LA_QTY_ANNOUNCED">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Announced</DOCTranslation>
+      </Translations>
+    </LA_QTY_ANNOUNCEDLabel>
+    <LA_QTY_DIFFERENCELabel Id="LA_QTY_DIFFERENCE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Difference</DOCTranslation>
+      </Translations>
+    </LA_QTY_DIFFERENCELabel>
+    <LA_QTY_TOTALLabel Id="LA_QTY_TOTAL">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Poids Total</DOCTranslation>
+      </Translations>
+    </LA_QTY_TOTALLabel>
+    <LA_QTY_WEIGHING1Label Id="LA_QTY_WEIGHING1">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Poids arrivée</DOCTranslation>
+      </Translations>
+    </LA_QTY_WEIGHING1Label>
+    <LA_QTY_WEIGHING2Label Id="LA_QTY_WEIGHING2">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Poids départ</DOCTranslation>
+      </Translations>
+    </LA_QTY_WEIGHING2Label>
+    <LA_REFERENCE_SUPPLIERLabel Id="LA_REFERENCE_SUPPLIER">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">N° bon fournisseur</DOCTranslation>
+      </Translations>
+    </LA_REFERENCE_SUPPLIERLabel>
+    <LA_REPORT_ANALYSELabel Id="LA_REPORT_ANALYSE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Bulletin d'analyse</DOCTranslation>
+      </Translations>
+    </LA_REPORT_ANALYSELabel>
+    <LA_SAMPLESLabel Id="LA_SAMPLES">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Sample(s)</DOCTranslation>
+      </Translations>
+    </LA_SAMPLESLabel>
+    <LA_SCHEMELabel Id="LA_SCHEME">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Scheme</DOCTranslation>
+      </Translations>
+    </LA_SCHEMELabel>
+    <LA_SECURITY_SEALLabel Id="LA_SECURITY_SEAL">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Security seal</DOCTranslation>
+      </Translations>
+    </LA_SECURITY_SEALLabel>
+    <LA_SIGNATURELabel Id="LA_SIGNATURE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Signature</DOCTranslation>
+      </Translations>
+    </LA_SIGNATURELabel>
+    <LA_SIGNATURE_OPERATORLabel Id="LA_SIGNATURE_OPERATOR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Operator :</DOCTranslation>
+      </Translations>
+    </LA_SIGNATURE_OPERATORLabel>
+    <LA_SIGNATURE_SUB_TRANSPORTEURLabel Id="LA_SIGNATURE_SUB_TRANSPORTEUR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Subcontractor</DOCTranslation>
+      </Translations>
+    </LA_SIGNATURE_SUB_TRANSPORTEURLabel>
+    <LA_SIGNATURE_TRANSPORTEURLabel Id="LA_SIGNATURE_TRANSPORTEUR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Carrier</DOCTranslation>
+      </Translations>
+    </LA_SIGNATURE_TRANSPORTEURLabel>
+    <LA_SILOSLabel Id="LA_SILOS">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Silo(s) intake</DOCTranslation>
+      </Translations>
+    </LA_SILOSLabel>
+    <LA_SITE_DESCRLabel Id="LA_SITE_DESCR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Shipped to</DOCTranslation>
+      </Translations>
+    </LA_SITE_DESCRLabel>
+    <LA_SUB_SUPPLIERLabel Id="LA_SUB_SUPPLIER">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Subsupplier</DOCTranslation>
+      </Translations>
+    </LA_SUB_SUPPLIERLabel>
+    <LA_SUPPLIERLabel Id="LA_SUPPLIER">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Supplier</DOCTranslation>
+      </Translations>
+    </LA_SUPPLIERLabel>
+    <LA_TIME_WEIGHING1Label Id="LA_TIME_WEIGHING1">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Time first weighing</DOCTranslation>
+      </Translations>
+    </LA_TIME_WEIGHING1Label>
+    <LA_TIME_WEIGHING2Label Id="LA_TIME_WEIGHING2">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Time second weighing</DOCTranslation>
+      </Translations>
+    </LA_TIME_WEIGHING2Label>
+    <LA_TITLELabel Id="LA_TITLE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Document for dev purposes</DOCTranslation>
+      </Translations>
+    </LA_TITLELabel>
+    <LA_TITLE_ANALYSESLabel Id="LA_TITLE_ANALYSES">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Analysis</DOCTranslation>
+      </Translations>
+    </LA_TITLE_ANALYSESLabel>
+    <LA_TITLE_WEIGHTSLabel Id="LA_TITLE_WEIGHTS">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Weights</DOCTranslation>
+      </Translations>
+    </LA_TITLE_WEIGHTSLabel>
+    <LA_TRUCKLabel Id="LA_TRUCK">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">License plate</DOCTranslation>
+      </Translations>
+    </LA_TRUCKLabel>
+    <LA_UNLOADEDLabel Id="LA_UNLOADED">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Unloaded</DOCTranslation>
+      </Translations>
+    </LA_UNLOADEDLabel>
+    <LA_USAGELabel Id="LA_USAGE">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Use</DOCTranslation>
+      </Translations>
+    </LA_USAGELabel>
+    <LA_VOLUME15Label Id="LA_VOLUME15">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Volume at 15°C</DOCTranslation>
+      </Translations>
+    </LA_VOLUME15Label>
+    <LA_YEARLabel Id="LA_YEAR">
+      <Translations>
+        <DOCTranslation LanguageCode="DOC">Year</DOCTranslation>
+      </Translations>
+    </LA_YEARLabel>
+  </Labels>
+  <Company>
+    <Name>Vinci Energies</Name>
+    <Adress>Actemium</Adress>
+    <City>Aalter</City>
+    <Country>Belgium</Country>
+    <CommercialContactInfo />
+    <Telephone />
+    <Vat />
+    <SourcingParam>0</SourcingParam>
+    <Logo1 Sequence="1" Type="ImageRef">
+      <Path>logo.png</Path>
+    </Logo1>
+  </Company>
+  <PurchaseOrders>
+    <PurchaseOrder>
+      <OrderNumber>123456</OrderNumber>
+      <OrderLine>1</OrderLine>
+      <ExternalId>556677</ExternalId>
+      <IntakeNumber>66</IntakeNumber>
+      <IntakeNumberBarcode>*66*</IntakeNumberBarcode>
+      <ContractNumber>66666</ContractNumber>
+      <ContractSequence>1</ContractSequence>
+      <SiteCode>1</SiteCode>
+      <SiteDescription>Site Aalter</SiteDescription>
+      <LoadingZone>LZ1</LoadingZone>
+      <LoadingZoneDescription>Loading Zone 1</LoadingZoneDescription>
+      <ProductOrigin />
+      <OrderComment>Document for order 123456</OrderComment>
+      <IntakeComment />
+      <InternalComment />
+      <ReferenceSupplier />
+      <DeliveryDate>30-04-2023</DeliveryDate>
+      <DeliveryDateTime>2023-04-30 00:00</DeliveryDateTime>
+      <Operator />
+      <LoadInstruction />
+      <LoadingNumberSupplier>4485471900001000</LoadingNumberSupplier>
+      <AnnouncementDateTime>2023-04-30 00:00</AnnouncementDateTime>
+      <Barcode />
+      <UsageCode />
+      <Dae />
+      <NextOrderAvailable />
+      <Company>
+        <Name>Vinci Energies</Name>
+        <Adress>Actemium</Adress>
+        <City>Aalter</City>
+        <Country>Belgium</Country>
+        <CommercialContactInfo />
+        <Telephone />
+        <Vat />
+        <SourcingParam>0</SourcingParam>
+        <Logo1 Sequence="1" Type="ImageRef">
+          <Path>logo.png</Path>
+        </Logo1>
+      </Company>
+      <ArticleProduct Kind="Article">
+        <Id>201001</Id>
+        <Description>Piglet flour</Description>
+        <SpecialTreatmentId>0</SpecialTreatmentId>
+        <PackingId>BULK</PackingId>
+        <PackingDescription>BULK</PackingDescription>
+        <Barcode />
+        <Reference />
+        <CleanReference />
+        <Class />
+        <ClassDescription />
+        <Breed>20</Breed>
+        <BreedDescription>Flour</BreedDescription>
+        <PriceGroup />
+        <PriceGroupDescription />
+        <Family>20</Family>
+        <FamilyDescription>Flour</FamilyDescription>
+        <Bulk>1</Bulk>
+        <Bag />
+        <CustomsCode />
+        <Warehouse />
+        <ExternalReference />
+        <SalesArticleId />
+        <SalesReference>201001</SalesReference>
+        <Storage />
+        <ProductType>0</ProductType>
+        <PalletArticleNumber />
+        <PalletArticleDescription />
+        <PiecesOnPallet />
+        <BoxArticleNumber />
+        <BoxArticleDescription />
+        <PiecesInBox />
+        <Gmo>0</Gmo>
+        <PrintComment>3</PrintComment>
+        <Descriptions>
+          <DOCDescription LanguageCode="DOC">Piglet flour</DOCDescription>
+        </Descriptions>
+        <Comments>
+          <DOCComment LanguageCode="DOC" />
+        </Comments>
+        <PackingQuantity Kind="Packing">
+          <Value>1</Value>
+          <Uom>KG</Uom>
+        </PackingQuantity>
+        <ProductQuantity Kind="Product">
+          <Value />
+          <Uom>KG</Uom>
+        </ProductQuantity>
+      </ArticleProduct>
+      <SupplierContact Kind="Supplier">
+        <CompanyCode>VE</CompanyCode>
+        <Id>1</Id>
+        <ExternalId />
+        <Description>Supplier 1</Description>
+        <Adress1 />
+        <Adress2 />
+        <Adress3 />
+        <ZipCode />
+        <City />
+        <CountryCode />
+        <Country />
+        <Phone />
+        <Mobile />
+        <ApprovalNumber />
+        <Fax>0044 885 442</Fax>
+        <Vat>VAT 54df54</Vat>
+        <Mail />
+      </SupplierContact>
+      <SubSupplierContact Kind="SubSupplier">
+        <CompanyCode>VE</CompanyCode>
+        <Id>2</Id>
+        <ExternalId />
+        <Description>Supplier 2</Description>
+        <Adress1 />
+        <Adress2 />
+        <Adress3 />
+        <ZipCode />
+        <City />
+        <CountryCode />
+        <Country />
+        <Phone />
+        <Mobile />
+        <ApprovalNumber />
+        <Fax />
+        <Vat />
+        <Mail />
+      </SubSupplierContact>
+      <TransporterContact Kind="Transporter">
+        <CompanyCode>VE</CompanyCode>
+        <Id>3</Id>
+        <ExternalId />
+        <Description>Transporter 3</Description>
+        <Adress1 />
+        <Adress2 />
+        <Adress3 />
+        <ZipCode />
+        <City />
+        <CountryCode />
+        <Country />
+        <Phone />
+        <Mobile />
+        <ApprovalNumber />
+        <Fax />
+        <Vat />
+        <Mail />
+      </TransporterContact>
+      <SubTransporterContact Kind="SubTransporter">
+        <CompanyCode>VE</CompanyCode>
+        <Id>3</Id>
+        <ExternalId />
+        <Description>Transporter 3</Description>
+        <Adress1 />
+        <Adress2 />
+        <Adress3 />
+        <ZipCode />
+        <City />
+        <CountryCode />
+        <Country />
+        <Phone />
+        <Mobile />
+        <ApprovalNumber />
+        <Fax />
+        <Vat />
+        <Mail />
+      </SubTransporterContact>
+      <LocationMain Id="1">
+        <Id>1</Id>
+        <Name>Site Aalter</Name>
+        <Registration>REG001</Registration>
+        <LocationContact Kind="Location">
+          <CompanyCode>VE</CompanyCode>
+          <Id>1</Id>
+          <ExternalId />
+          <Description>Site Aalter</Description>
+          <Adress1>SomeStreetInAalter 33</Adress1>
+          <Adress2 />
+          <Adress3 />
+          <ZipCode>9880</ZipCode>
+          <City>Aalter</City>
+          <CountryCode>BE</CountryCode>
+          <Country>Belgium</Country>
+          <Phone />
+          <Mobile />
+          <ApprovalNumber />
+          <Fax />
+          <Vat />
+          <Mail />
+        </LocationContact>
+      </LocationMain>
+      <TruckTransportation Kind="Truck">
+        <Id />
+        <Description>VE</Description>
+        <TruckLicencePlate Kind="Truck" />
+        <TrailerLicencePlate Kind="Trailer" />
+        <Permit />
+        <TruckPermit />
+        <LicensePlateVisual />
+        <LicensePlateTruckVisual />
+        <LicensePlateTrailerVisual />
+      </TruckTransportation>
+      <Parameters>
+        <REGISTRATION_LOCK>02/05 11:42:31|314|NIMA|AD\FRDCASPRDS-021</REGISTRATION_LOCK>
+        <REGISTRATION_NUMBER />
+        <CONFIRMATION_LOCK>02/05 11:43:18|314|NIMA|AD\FRDCASPRDS-021</CONFIRMATION_LOCK>
+      </Parameters>
+      <OrderedQuantity Kind="Ordered">
+        <Value>814690</Value>
+        <Uom>KG</Uom>
+      </OrderedQuantity>
+      <AnnouncedQuantity Kind="Announced">
+        <Value>814690</Value>
+        <Uom>KG</Uom>
+      </AnnouncedQuantity>
+      <DeliveredQuantity Kind="Delivered">
+        <Value>814690</Value>
+        <Uom>KG</Uom>
+      </DeliveredQuantity>
+      <DifferenceDeliveredAnnouncedQuantity Kind="DifferenceDeliveredAnnounced">
+        <Value>0</Value>
+        <Uom>T</Uom>
+      </DifferenceDeliveredAnnouncedQuantity>
+      <FirstWeighingQuantity Kind="FirstWeighing">
+        <Value />
+        <Uom>KG</Uom>
+        <AlibiNumber />
+        <Date>30-04-2023</Date>
+        <Time>00:00</Time>
+        <DateTime>2023-04-30 00:00</DateTime>
+      </FirstWeighingQuantity>
+      <SecondWeighingQuantity Kind="SecondWeighing">
+        <Value />
+        <Uom>KG</Uom>
+        <AlibiNumber />
+        <Date>30-04-2023</Date>
+        <Time>00:00</Time>
+        <DateTime>2023-04-30 00:00</DateTime>
+      </SecondWeighingQuantity>
+      <Silos>U-201001</Silos>
+      <PreviousDeliveries>
+        <PreviousDelivery1 Sequence="1">
+          <Id />
+          <Description />
+        </PreviousDelivery1>
+      </PreviousDeliveries>
+    </PurchaseOrder>
+  </PurchaseOrders>
+</Data>
